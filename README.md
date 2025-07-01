@@ -19,27 +19,3 @@ I’m actively seeking opportunities where I can contribute to impactful project
 **Frameworks/Libraries:** Django, React, Scikit-learn, Pandas, NumPy  
 **Tools & Platforms:** Git, Docker, Linux, GitHub, VS Code  
 **Concepts:** OOP, REST APIs, Machine Learning, Data Structures & Algorithms
-
----
-
-### 📂 Projects
-
-- **Finance Tracker**  
-  Full-stack Django app integrating Plaid API for real-time budgeting and transaction tracking.  
-  *Tech:* Django, PostgreSQL, Plaid API, Bootstrap
-
-- **ML Monitoring Dashboard**  
-  Real-time ML model performance dashboard with visual analytics.  
-  *Tech:* Python, Streamlit, Matplotlib, Scikit-learn
-
-- **Pomodoro App with Reward System**  
-  Productivity timer that gamifies focus using a point-based reward shop.  
-  *Tech:* Django, SQLite, HTML/CSS
-
----
-
-### 📈 Currently Learning
-
-- Advanced machine learning techniques and model deployment  
-- Backend system design & scalable APIs  
-- Interview prep (LeetCode, DSA, system design)
