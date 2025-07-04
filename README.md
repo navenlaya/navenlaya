@@ -6,14 +6,14 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I'm passionate about applying AI/ML to real-world use cases, from building intelligent applications to designing systems that learn, adapt, and improve over time.  
-I’m actively seeking opportunities where I can contribute to impactful projects, collaborate with great teams, and keep learning at the cutting edge of technology.
+I’m actively seeking opportunities where I can contribute to impactful projects, collaborate with great teams, and keep learning.
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 
 **Languages:** Python, C/C++, JavaScript, SQL  
 **Frameworks/Libraries:** Django, React, Scikit-learn, Pandas, NumPy  
