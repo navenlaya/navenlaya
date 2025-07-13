@@ -17,6 +17,6 @@ I’m actively seeking opportunities where I can contribute to impactful project
 
 **Languages:** Python, C/C++, JavaScript, SQL  
 **Frameworks/Libraries:** Django, FastAPI, React 
-***AI/ML:** Scikit-learn, Pandas, NumPy 
+**AI/ML:** Scikit-learn, Pandas, NumPy 
 **Tools & Platforms:** Git, Docker, Linux, GitHub, VS Code  
 **Concepts:** OOP, REST APIs, Machine Learning, Data Structures & Algorithms
