@@ -26,7 +26,7 @@ I’m actively seeking opportunities where I can contribute to impactful project
 ### Current Project
 
 **Real-Time ML Monitoring Dashboard**  
-A full-stack application for monitoring and visualizing the performance of deployed ML models.  
+A full-stack application for monitoring and visualizing the performance of an ML model that predicts the cost of Housing in California. 
 - **Frontend:** React + Vite with a user-friendly interface for both users and developers  
 - **Backend:** FastAPI with prediction APIs and model performance tracking  
 - **ML:** Regression model predicting California housing prices with real-time error metrics  
