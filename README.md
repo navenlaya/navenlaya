@@ -23,11 +23,9 @@ I’m actively seeking opportunities where I can contribute to impactful project
 
 ---
 
-### Current Projects
+### Current Project
 
-**Real-Time ML Monitoring Dashboard**  
 **Finance-Tracker**  
-**Fishing AI App**  
 
 
 
