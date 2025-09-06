@@ -25,7 +25,7 @@ I’m actively seeking opportunities where I can contribute to impactful project
 
 ### Current Project
 
-**Finance-Tracker**  
+**Fish Identifier App**  
 
 
 
